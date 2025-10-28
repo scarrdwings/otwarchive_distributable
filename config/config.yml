@@ -58,18 +58,23 @@ SMTP_ENABLE_STARTTLS: false
 #SMTP_AUTHENTICATION: # :plain, :login or :cram_md5
 
 # Branding
-APP_URL: 'http://www.example.org'
-APP_NAME: 'Example Archive'
-APP_HOST: 'archiveofourown.org'
-APP_SHORT_NAME: 'AO3'
+# Mission Critical is the purpose of your archive, while What R U is basically your short plan, ie, is your archive for a specific fandom?  Genre?  Pairing?
+# Remember to put / before any coding punctuation like apostrophes
+APP_URL: 'https://yoururlhere.com'
+APP_NAME: 'Your Archive Name Here'
+APP_HOST: 'www.urlhere.com'
+APP_SHORT_NAME: 'Your Archive Nickname'
+APP_ABB: 'ABC'
+MISSION_CRITICAL: 'THIS IS YOUR ARCHIVAL MISSION STATEMENT, USE IT WISELY'
+WHAT_R_U: 'Insert whatever you are here, ie femslash or Star Trek or whatever'
+ORG_NAME: 'Do you have an org'
 LOGO: 'logo.png'
-ALT_LOGO: 'Archive of Our Own'
-OTWLOGO: 'OTWLogo.png'
-OTWALT_LOGO: 'OTW Logo:closing the circle of the copyright symbol, it symbolizes our creative engagement with media: participating and not just consuming.'
+ALT_LOGO: 'Archive Name Over Logo'
+OTWLOGO: 'Logo.png'
+OTWALT_LOGO: '...'
 REVISION: ''
-ES_URL: 'http://127.0.0.1:9400'
-MEMCACHED_SERVERS: '127.0.0.1:11211'
-ZOHO_URL: 'https://desk.zoho.com'
+ES_URL: 'http://127.0.0.1:9200'
+MEMCACHED_SERVERS: ['127.0.0.1:11211:1']
 
 # tag settings
 DELIMITER_FOR_INPUT: ','  # if you change this, you will need to change
