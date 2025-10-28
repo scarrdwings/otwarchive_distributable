@@ -8,11 +8,11 @@ Its development is sponsored and managed by the [Organization for Transformative
 
 Release Status
 ---------
-Development of the OTW-Archive software is an ongoing labor of love. You can see it in action on the [Archive of Our Own](https://archiveofourown.org/), aka AO3, a multifandom archive also run by the OTW.
+Development of the OTW-Archive software is an ongoing labor of love. You can see it in action on the [Archive of Our Own](https://archiveofourown.org/), aka AO3, a multifandom archive also run by the OTW.  (Steff's ETA: It's been in beta for something like almost two decades, though, so it's the Wild West out here still.  But we're getting there.)
 
 You can find more information about the [history and future of the AO3 project on the OTW website](https://www.transformativeworks.org/our-projects/archive-of-our-own/).
 
-If you wish to use this software, SquidgeWorld has generously provided [setup notes](https://squidgeworld.org/works/34491).
+If you wish to use this software, SquidgeWorld has generously provided [setup notes](https://squidgeworld.org/works/34491).  (Steff's ETA: Walter is a saint.  melo is a prodigy.  I bash shit until it works.)
 
 How to Contribute
 ----------
