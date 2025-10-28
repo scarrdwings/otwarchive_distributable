@@ -1,7 +1,7 @@
 <div class="intro module">
   <h2 class="heading"><%= ts("%{mission_critical}.", mission_critical: ArchiveConfig.MISSION_CRITICAL) %></h2>
   <p class="stats"><%= ts("more than %{fandom_count} fandoms | %{user_count} users | %{work_count} works", fandom_count: content_tag(:span, number_with_delimiter(@fandom_count), class: "count"), user_count: content_tag(:span, number_with_delimiter(@user_count), class: "count"), work_count: content_tag(:span, number_with_delimiter(@work_count), class: "count")).html_safe %></p>
-  <p class="parent"><%= ts("%{app_name} is a project of", app_name: ArchiveConfig.APP_NAME) %> <%= link_to ts("the %{org_name} Community", org_name: ArchiveConfig.ORG_NAME), "https://your.url.here" %>.</p>
+  <p class="parent"><%= ts("%{app_name} is a project of", app_name: ArchiveConfig.APP_NAME) %> <%= link_to ts("the %{org_name} Community", org_name: ArchiveConfig.ORG_NAME), "https://org.url.here" %>.</p>
 
   <div class="account module">
 
