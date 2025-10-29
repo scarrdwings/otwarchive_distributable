@@ -67,7 +67,7 @@ list.each do |user|
   puts
 end
 
-puts "\nFor all saved admins, copy and paste into the wiki at https://wiki.transformativeworks.org/mediawiki/AO3_Admins:\n"
+puts "\nFor all saved admins, check with the site owner:\n"
 
 admins.sort_by!(&:created_at)
 admins.each do |admin|
