@@ -61,19 +61,19 @@ en:
         fnok: Fannish Next-of-Kin
         legal: review our DMCA Policy and contact our Legal team
         support: contact our Support team
-        tos: AO3 Terms of Service
+        tos: Terms of Service
         tos_faq: Terms of Service FAQ
       reportable:
-        allowed: You would like to know whether specific content is allowed on AO3.
+        allowed: You would like to know whether specific content is allowed on this archive.
         content_policy: Content Policy
         email: an email explaining why
-        hack: You believe that your AO3 account was hacked.
-        harassment: You have experienced or witnessed harassment taking place on AO3.
+        hack: You believe that your account was hacked.
+        harassment: You have experienced or witnessed harassment taking place on this archive.
         intro_html: 'Potential reasons to submit a report to the %{pac_link} team:'
         pac: Policy & Abuse
         suspended_html: You have been suspended or your work has been removed, and you have not received %{email_link}.
         tos: Terms of Service
-        violation_html: You have encountered content on AO3 that violates the %{content_policy_link} or other parts of the %{tos_link}.
+        violation_html: You have encountered content on this archive that violates the %{content_policy_link} or other parts of the %{tos_link}.
   admin:
     activities:
       index:
@@ -138,7 +138,7 @@ en:
           invite_by_email_title: Invite by email
           invite_user: Invite user
     admin_nav:
-      ao3_news: AO3 News
+      ao3_news: Site News
       archive_faq: Archive FAQ
       faq:
         reorder_questions: Reorder Questions
@@ -146,7 +146,7 @@ en:
       landmark: Admin Navigation
       news:
         delete_post: Delete Post
-      post_ao3_news: Post AO3 News
+      post_ao3_news: Post News
       wrangling_guidelines: Wrangling Guidelines
     admin_options:
       delete:
@@ -341,8 +341,8 @@ en:
           admin_posts: Admin Posts
           faqs: Archive FAQ
           known_issues: Known Issues
-          news: AO3 News
-          post_news: Post AO3 News
+          news: Site News
+          post_news: Post News
           wrangling_guidelines: Wrangling Guidelines
         settings: Settings
         skins:
@@ -450,7 +450,7 @@ en:
         landmark: News Post Navigation
         next: Next Post
         previous: Previous Post
-      page_heading: AO3 News
+      page_heading: Site News
   admins:
     index:
       confidentiality_reminder: You are now logged in as an admin. That means you will probably encounter information that is personal or confidential (e.g. usernames, email and IP addresses, creator names on anonymous works, etc). Please do not use this information in ways unrelated to your OTW role. If you have questions about what you can or cannot do with information you see here, contact your committee chair(s).
@@ -598,7 +598,7 @@ en:
         update: Update
       content_policy: Content Policy
       legend: Post Chapter
-      post_notice_html: All works you post on AO3 must comply with our %{content_policy_link}. For more information, please refer to our %{tos_faq_link}.
+      post_notice_html: All works you post on this site must comply with our %{content_policy_link}. For more information, please refer to our %{tos_faq_link}.
       tos_faq: Terms of Service FAQ
     preview:
       page_heading: Preview
@@ -974,18 +974,18 @@ en:
         tag_changes: Requests to canonize or change tags
         work_problems: Works labeled with the wrong language or duplicate works
       status:
-        bluesky: "@status.archiveofourown.org"
-        current_html: For current updates on AO3 performance or downtime, please check our %{status_page_link} and follow %{bluesky_link} on Bluesky or %{tumblr_link} on Tumblr.
+        bluesky: "@your.bluesky.user"
+        current_html: For current updates on site performance or downtime, please check our %{status_page_link} and follow %{bluesky_link} on Bluesky or %{tumblr_link} on Tumblr.
         status_page: status page
-        tumblr: ao3org
+        tumblr: insertyourtumblr
   home:
     about:
       ao3:
         github_repository: GitHub repository
-        html: The Archive of Our Own offers a noncommercial and nonprofit central hosting place for fanworks using open-source archiving software. We welcome contributions to our %{github_repository_link}, and a list of open tasks is available on our %{jira_project_link}.
+        html: This site offers a noncommercial and nonprofit central hosting place for fanworks using open-source archiving software. The OTW welcomes contributions to their %{github_repository_link}, and a list of open tasks is available on their %{jira_project_link}.
         jira_project: Jira project
-      details: We are proactive and innovative in protecting and defending our work from commercial exploitation and legal challenge. We preserve our fannish economy, values, and creative expression by protecting and nurturing our fellow fans, our work, our commentary, our history, and our identity while providing the broadest possible access to fannish activity for all fans.
-      general: The Organization for Transformative Works (OTW) is a nonprofit organization, established by fans in 2007, to serve the interests of fans by providing access to and preserving the history of fanworks and fan culture in its myriad forms. We believe that fanworks are transformative and that transformative works are legitimate.
+      details: The OTW is proactive and innovative in protecting and defending fanworks from commercial exploitation and legal challenge. They preserve fannish economy, values, and creative expression by protecting and nurturing fellow fans, fanworks, commentary, history, and identity while providing the broadest possible access to fannish activity for all fans.
+      general: The Organization for Transformative Works (OTW) is a nonprofit organization, established by fans in 2007, to serve the interests of fans by providing access to and preserving the history of fanworks and fan culture in its myriad forms. They believe that fanworks are transformative and that transformative works are legitimate.
       heading:
         html: About the %{otw}
         otw: OTW
