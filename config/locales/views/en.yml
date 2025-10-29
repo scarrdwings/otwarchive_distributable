@@ -980,7 +980,7 @@ en:
         tumblr: insertyourtumblr
   home:
     about:
-      ao3:
+      archive:
         github_repository: GitHub repository
         html: This site offers a noncommercial and nonprofit central hosting place for fanworks using open-source archiving software. The OTW welcomes contributions to their %{github_repository_link}, and a list of open tasks is available on their %{jira_project_link}.
         jira_project: Jira project
@@ -988,24 +988,24 @@ en:
       general: The Organization for Transformative Works (OTW) is a nonprofit organization, established by fans in 2007, to serve the interests of fans by providing access to and preserving the history of fanworks and fan culture in its myriad forms. They believe that fanworks are transformative and that transformative works are legitimate.
       heading:
         html: About the %{otw}
-        otw: OTW
-        otw_long: Organization for Transformative Works
+        yourorg: Your Org Abbreviation
+        org_long: Your Full Organization Name
       major_projects:
-        fanlore: Fanlore
-        fanlore_details_html: "%{fanlore_link}, a fandom wiki devoted to preserving the history of transformative fanworks and the fandoms from which they have arisen."
+        wiki: your wiki
+        wiki_details_html: "%{wiki_link}, a fandom wiki devoted to preserving the history of transformative fanworks and the fandoms from which they have arisen."
         legal_advocacy: Legal Advocacy
         legal_details_html: "%{legal_advocacy_link} committed to protecting and defending fanworks from commercial exploitation and legal challenge."
         open_doors: Open Doors
         open_doors_details_html: "%{open_doors_link}, which offers shelter to at-risk fannish projects."
         title: 'Our other major projects include:'
-        twc: Transformative Works and Cultures
-        twc_details_html: "%{twc_link}, a peer-reviewed academic journal that seeks to promote scholarship on fanworks and practices."
+        somethingelse: Whatever Other Project
+        se_details_html: "%{somethingelse_link}, a description goes here."
       more_info:
         communications_team: Communications team
         faq_page: FAQ page
-        html: You can find out more about the OTW and its projects at its website, %{transformative_works_link}, and learn about how your financial support is vital to the continuation and expansion of the OTW's work on its %{faq_page_link}. If you have a media or research question, please contact the %{communications_team_link}.
-        transformative_works: transformativeworks.org
-      page_title: About the OTW
+        html: You can find out more about the YourOrgHere and its projects at its website, %{anotherthing_link}, and learn about how your financial support is vital to the continuation and expansion of the OTW's work on its %{faq_page_link}. If you have a media or research question, please contact the %{communications_team_link}.
+        anotherthing: yourlinkhere.org
+      page_title: About Your Org
     content:
       cc_attribution_4_0_international: Creative Commons Attribution 4.0 International License
       commercial_promotion:
